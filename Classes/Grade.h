@@ -9,4 +9,5 @@ class Grade
     string semster;
     Course* course;
 
+    
 };
